@@ -1,6 +1,8 @@
 #! /usr/bin/env python3.6
 # Python script for storing twitter search
 # Crated by Aleksandar Josifoski https://about.me/josifsk for Asma Mohammed
+# it depends on installed tweepy
+# Most easy way to install tweepy: pip3 install -U tweepy
 # 2017 February 28
 
 import tweepy

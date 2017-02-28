@@ -1,3 +1,4 @@
+#! /usr/bin/env python3.6
 # Python script for storing twitter search
 # Crated by Aleksandar Josifoski https://about.me/josifsk for Asma Mohammed
 # 2017 February 28
